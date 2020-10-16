@@ -6,7 +6,7 @@ public class Solution {
          Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();
         double f = sc.nextDouble();
-        sc.nextLine();  //// Skip the remainder of the double line
+        sc.nextLine();  //Skip the remainder of the double line
         String line = sc.nextLine();
 
         System.out.println("String: " + line);
